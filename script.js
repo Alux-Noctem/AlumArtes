@@ -122,11 +122,16 @@ const redesSociais = [
 		url: 'https://facebook.com/alumartes',
 		icon: 'assets/facebook.svg'
 	},
-	{
-		nome: 'LinkedIn',
-		url: 'https://linkedin.com/company/alumartes',
-		icon: 'assets/linkedin.svg'
-	}
+	//{
+	//	nome: 'LinkedIn',
+	//	url: 'https://linkedin.com/company/alumartes',
+	//	icon: 'assets/linkedin.svg'
+	//}
+	//{
+	//	nome: 'Youtube',
+	//	url: 'https://youtube.com/alumartes',
+	//	icon: 'assets/youtube.svg'
+	//}
 	// Adicione mais redes se quiser
 ];
 
