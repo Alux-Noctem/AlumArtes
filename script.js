@@ -114,7 +114,7 @@ if (window.location.pathname.includes('catalogo.html')) {
 const redesSociais = [
 	{
 		nome: 'Instagram',
-		url: 'https://instagram.com/alumartes',
+		url: 'https://instagram.com/alumartesv?igsh=MXVrNWR2Y3E3aHhudQ==',
 		icon: 'assets/instagram.svg'
 	},
 	{
