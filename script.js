@@ -114,22 +114,22 @@ if (window.location.pathname.includes('catalogo.html')) {
 const redesSociais = [
 	{
 		nome: 'Instagram',
-		url: 'https://instagram.com/alumartesv?igsh=MXVrNWR2Y3E3aHhudQ==',
+		url: 'https://www.instagram.com/alumartes_/',
 		icon: 'assets/instagram.svg'
 	},
 	{
 		nome: 'Facebook',
-		url: 'https://facebook.com/alumartes',
+		url: 'https://facebook.com/alumartes_',
 		icon: 'assets/facebook.svg'
 	},
 	//{
 	//	nome: 'LinkedIn',
-	//	url: 'https://linkedin.com/company/alumartes',
+	//	url: 'https://linkedin.com/company/alumartes_',
 	//	icon: 'assets/linkedin.svg'
 	//}
 	//{
 	//	nome: 'Youtube',
-	//	url: 'https://youtube.com/alumartes',
+	//	url: 'https://youtube.com/alumartes_',
 	//	icon: 'assets/youtube.svg'
 	//}
 	// Adicione mais redes se quiser
