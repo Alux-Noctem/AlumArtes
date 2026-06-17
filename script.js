@@ -1,19 +1,19 @@
 // --- Galeria de Projetos ---
 const galeriaProjetos = [
 	{
-		imagem: 'assets/sacada.png',
+		imagem: 'assets/projetos/sacada.png',
 		titulo: 'Projeto Residencial'
 	},
 	{
-		imagem: 'assets/predio.png',
+		imagem: 'assets/projetos/predio.png',
 		titulo: 'Fachada Comercial'
 	},
 	{
-		imagem: 'assets/varanda.png',
+		imagem: 'assets/projetos/varanda.png',
 		titulo: 'Fechamento de Sacada'
 	},
 	{
-		imagem: 'assets/cabana.png',
+		imagem: 'assets/projetos/cabana.png',
 		titulo: 'Projeto Natureza'
 	}
 	// Adicione mais projetos conforme necessário
@@ -50,28 +50,28 @@ const produtosCatalogo = [
 		titulo: 'Janela de Correr',
 		descricao: 'Janela de correr de alumínio com design moderno e durável.',
 		codigo: 'jan4842',
-		imagem: 'assets/jan1.png'
+		imagem: 'assets/produtos/jan1.png'
 	},
 	{
 		tipo: 'porta',
 		titulo: 'Porta de Correr',
 		descricao: 'Elegante porta de correr ideal para espaços amplos.',
 		codigo: 'por2368',
-		imagem: 'assets/por1.png'
+		imagem: 'assets/produtos/por1.png'
 	},
 	{
 		tipo: 'janela',
 		titulo: 'Janela Maxim-ar',
 		descricao: 'Janela maxim-ar de alumínio, com abertura superior, proporcionando ventilação excelente.',
 		codigo: 'jan1573',
-		imagem: 'assets/jan2.png'
+		imagem: 'assets/produtos/jan2.png'
 	},
 	{
 		tipo: 'porta',
 		titulo: 'Porta Pivotante',
 		descricao: 'Porta pivotante sofisticada e resistente, com ótimo isolamento e design moderno.',
 		codigo: 'por5211',
-		imagem: 'assets/por2.png'
+		imagem: 'assets/produtos/por2.png'
 	},
 	// Adicione mais produtos conforme necessário
 ];
