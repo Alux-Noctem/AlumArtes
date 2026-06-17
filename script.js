@@ -50,28 +50,98 @@ const produtosCatalogo = [
 		titulo: 'Janela de Correr',
 		descricao: 'Janela de correr de alumínio com design moderno e durável.',
 		codigo: 'jan4842',
-		imagem: 'assets/produtos/jan1.png'
+		imagem: 'assets/produtos/janela_correr.png'
+	},
+	{
+		tipo: 'janela',
+		titulo: 'Janela Integrada com Persiana',
+		descricao: 'Modelo com persiana embutida para controle de luz e maior privacidade.',
+		codigo: 'jan5916',
+		imagem: 'assets/produtos/janela_persiana.png'
 	},
 	{
 		tipo: 'porta',
 		titulo: 'Porta de Correr',
 		descricao: 'Elegante porta de correr ideal para espaços amplos.',
 		codigo: 'por2368',
-		imagem: 'assets/produtos/por1.png'
+		imagem: 'assets/produtos/porta_correr.png'
+	},
+	{
+		tipo: 'painel',
+		titulo: 'Painel de Vidro Fixo Incolor',
+		descricao: 'Painel fixo para fechamento de ambientes com visual clean e iluminação natural.',
+		codigo: 'pnl1103',
+		imagem: 'assets/produtos/painel_fixo.png'
 	},
 	{
 		tipo: 'janela',
 		titulo: 'Janela Maxim-ar',
 		descricao: 'Janela maxim-ar de alumínio, com abertura superior, proporcionando ventilação excelente.',
 		codigo: 'jan1573',
-		imagem: 'assets/produtos/jan2.png'
+		imagem: 'assets/produtos/janela_maxim.png'
+	},
+	{
+		tipo: 'porta',
+		titulo: 'Porta de Giro Lisa',
+		descricao: 'Porta de giro com acabamento liso, ideal para entradas internas e externas.',
+		codigo: 'por6734',
+		imagem: 'assets/produtos/porta_giro_lisa.png'
 	},
 	{
 		tipo: 'porta',
 		titulo: 'Porta Pivotante',
 		descricao: 'Porta pivotante sofisticada e resistente, com ótimo isolamento e design moderno.',
 		codigo: 'por5211',
-		imagem: 'assets/produtos/por2.png'
+		imagem: 'assets/produtos/porta_pivotante.png'
+	},
+	{
+		tipo: 'janela',
+		titulo: 'Janela Basculante',
+		descricao: 'Janela basculante prática para cozinhas, banheiros e áreas de serviço.',
+		codigo: 'jan2485',
+		imagem: 'assets/produtos/janela_basculante.png'
+	},
+	{
+		tipo: 'porta',
+		titulo: 'Porta Balcão 2 Folhas',
+		descricao: 'Porta balcão com ampla abertura e excelente passagem de luz para varandas.',
+		codigo: 'por8840',
+		imagem: 'assets/produtos/porta_balcao2.png'
+	},
+	{
+		tipo: 'painel',
+		titulo: 'Painel de Vidro Laminado Fumê',
+		descricao: 'Painel laminado com tonalidade fumê para mais conforto térmico e sofisticação.',
+		codigo: 'pnl3297',
+		imagem: 'assets/produtos/janela_fume.png'
+	},
+	{
+		tipo: 'janela',
+		titulo: 'Janela Veneziana de Correr',
+		descricao: 'Janela com veneziana para ventilação contínua e controle de luminosidade.',
+		codigo: 'jan7021',
+		imagem: 'assets/produtos/janela_veneziana_correr.png'
+	},
+	{
+		tipo: 'porta',
+		titulo: 'Porta de Correr 3 Folhas',
+		descricao: 'Solução robusta para vãos largos, com trilhos suaves e visual contemporâneo.',
+		codigo: 'por9456',
+		imagem: 'assets/produtos/porta_correr3.png'
+	},
+	{
+		tipo: 'painel',
+		titulo: 'Painel Temperado para Box',
+		descricao: 'Painel em vidro temperado para box de banheiro com segurança e fácil limpeza.',
+		codigo: 'pnl5562',
+		imagem: 'assets/produtos/painel_box.png'
+	},
+	{
+		tipo: 'painel',
+		titulo: 'Painel Pele de Vidro',
+		descricao: 'Composição de painéis para fachadas modernas com estética elegante.',
+		codigo: 'pnl7804',
+		imagem: 'assets/produtos/janela_pele.png'
 	},
 	// Adicione mais produtos conforme necessário
 ];
