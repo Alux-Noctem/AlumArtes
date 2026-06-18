@@ -15,6 +15,38 @@ const galeriaProjetos = [
 	{
 		imagem: 'assets/projetos/cabana.png',
 		titulo: 'Projeto Natureza'
+	},
+	{
+		imagem: 'assets/projetos/bancada.png',
+		titulo: 'Bancada feita com painel ACM'
+	},
+	{
+		imagem: 'assets/projetos/entrada.png',
+		titulo: 'Painel ACM com Porta Pivotante para Entrada'
+	},
+	{
+		imagem: 'assets/projetos/garagem.png',
+		titulo: 'Vidraçaria para Garagem'
+	},
+	{
+		imagem: 'assets/projetos/janelas.png',
+		titulo: 'Painel de Vidro com Janelas'
+	},
+	{
+		imagem: 'assets/projetos/porta_pivotante.png',
+		titulo: 'Porta de Alumínio'
+	},
+	{
+		imagem: 'assets/projetos/portal.png',
+		titulo: 'Portal de Entrada'
+	},
+	{
+		imagem: 'assets/projetos/portas.png',
+		titulo: 'Painel ACM com Portas de Correr'
+	},
+	{
+		imagem: 'assets/projetos/painel.png',
+		titulo: 'Painel de Vidro'
 	}
 	// Adicione mais projetos conforme necessário
 ];
@@ -53,13 +85,6 @@ const produtosCatalogo = [
 		imagem: 'assets/produtos/janela_correr.png'
 	},
 	{
-		tipo: 'janela',
-		titulo: 'Janela Integrada com Persiana',
-		descricao: 'Modelo com persiana embutida para controle de luz e maior privacidade.',
-		codigo: 'jan5916',
-		imagem: 'assets/produtos/janela_persiana.png'
-	},
-	{
 		tipo: 'porta',
 		titulo: 'Porta de Correr',
 		descricao: 'Elegante porta de correr ideal para espaços amplos.',
@@ -75,10 +100,10 @@ const produtosCatalogo = [
 	},
 	{
 		tipo: 'janela',
-		titulo: 'Janela Maxim-ar',
-		descricao: 'Janela maxim-ar de alumínio, com abertura superior, proporcionando ventilação excelente.',
-		codigo: 'jan1573',
-		imagem: 'assets/produtos/janela_maxim.png'
+		titulo: 'Janela Integrada com Persiana',
+		descricao: 'Modelo com persiana embutida para controle de luz e maior privacidade.',
+		codigo: 'jan5916',
+		imagem: 'assets/produtos/janela_persiana.png'
 	},
 	{
 		tipo: 'porta',
@@ -88,11 +113,32 @@ const produtosCatalogo = [
 		imagem: 'assets/produtos/porta_giro_lisa.png'
 	},
 	{
+		tipo: 'painel',
+		titulo: 'Painel de Vidro Laminado Fumê',
+		descricao: 'Painel laminado com tonalidade fumê para mais conforto térmico e sofisticação.',
+		codigo: 'pnl3297',
+		imagem: 'assets/produtos/painel_fume.png'
+	},
+	{
+		tipo: 'janela',
+		titulo: 'Janela Maxim-ar',
+		descricao: 'Janela maxim-ar de alumínio, com abertura superior, proporcionando ventilação excelente.',
+		codigo: 'jan1573',
+		imagem: 'assets/produtos/janela_maxim.png'
+	},
+	{
 		tipo: 'porta',
 		titulo: 'Porta Pivotante',
 		descricao: 'Porta pivotante sofisticada e resistente, com ótimo isolamento e design moderno.',
 		codigo: 'por5211',
 		imagem: 'assets/produtos/porta_pivotante.png'
+	},
+	{
+		tipo: 'painel',
+		titulo: 'Painel Temperado para Box',
+		descricao: 'Painel em vidro temperado para box de banheiro com segurança e fácil limpeza.',
+		codigo: 'pnl5562',
+		imagem: 'assets/produtos/painel_box.png'
 	},
 	{
 		tipo: 'janela',
@@ -110,10 +156,10 @@ const produtosCatalogo = [
 	},
 	{
 		tipo: 'painel',
-		titulo: 'Painel de Vidro Laminado Fumê',
-		descricao: 'Painel laminado com tonalidade fumê para mais conforto térmico e sofisticação.',
-		codigo: 'pnl3297',
-		imagem: 'assets/produtos/janela_fume.png'
+		titulo: 'Painel Pele de Vidro',
+		descricao: 'Composição de painéis para fachadas modernas com estética elegante.',
+		codigo: 'pnl7804',
+		imagem: 'assets/produtos/painel_pele.png'
 	},
 	{
 		tipo: 'janela',
@@ -131,17 +177,10 @@ const produtosCatalogo = [
 	},
 	{
 		tipo: 'painel',
-		titulo: 'Painel Temperado para Box',
-		descricao: 'Painel em vidro temperado para box de banheiro com segurança e fácil limpeza.',
-		codigo: 'pnl5562',
-		imagem: 'assets/produtos/painel_box.png'
-	},
-	{
-		tipo: 'painel',
-		titulo: 'Painel Pele de Vidro',
-		descricao: 'Composição de painéis para fachadas modernas com estética elegante.',
-		codigo: 'pnl7804',
-		imagem: 'assets/produtos/janela_pele.png'
+		titulo: 'Painel Maxim-ar com Vidro Fumê',
+		descricao: 'Painel para fachadas com visual elegante e espelhado com iluminação natural.',
+		codigo: 'pnl7489',
+		imagem: 'assets/produtos/painel_maxim.png'
 	},
 	// Adicione mais produtos conforme necessário
 ];
